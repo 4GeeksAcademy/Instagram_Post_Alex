@@ -1,0 +1,60 @@
+
+body {
+    background-color: black;
+}
+.headline {
+   
+}
+.flex-container {
+    display: flex;
+}
+
+.wrapper {
+    margin: 50px auto;
+    background-color: white;
+    width: 500px;
+    height: auto;
+}
+
+.header {
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+}
+
+.fa-html5 {
+    margin-right: 10px;
+    font-size: 100px;
+}
+
+.fa-ellipsis-v {
+    margin-left: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.icons {
+    align-items: center;
+}
+
+.content {
+    flex-direction: column;
+    padding: 20px;
+}
+.bookmark {
+    margin-left: auto;
+}
+
+.likes {
+    padding-bottom: 20px;
+}
+.icons {
+    padding-bottom: 20px;
+}
+.fa-comment, .fa-paper-plane {
+    margin-left: 10px;
+}
+
